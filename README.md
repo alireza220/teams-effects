@@ -25,8 +25,8 @@ Je hoeft OBS Studio niet te openen. VanishCam gebruikt alleen de virtuele camera
 ## Installeren
 
 ```bash
-git clone https://github.com/alireza220/vanishcam.git
-cd vanishcam
+git clone https://github.com/alireza220/teams-effects.git
+cd teams-effects
 uv run vanishcam.py --help
 ```
 
